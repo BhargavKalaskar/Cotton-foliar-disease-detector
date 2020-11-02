@@ -1,0 +1,25 @@
+item {
+    id: 1
+    name: 'Alternaria_leaf_spot'
+}
+
+item {
+    id: 2
+    name: 'Areolate_Mildew'
+}
+
+item {
+    id: 3
+    name: 'Bacterial_blight'
+}
+
+item {
+    id: 4
+    name: 'Target_spot'
+}
+
+item {
+    id: 5
+    name: 'Verticillium_Wilt'
+}
+
