@@ -9,3 +9,5 @@ They are
 -Bacterial blight   
 -Target spot    
 -Verticillum wilt
+
+This detection model has been trained on ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8 pre-trained model 
