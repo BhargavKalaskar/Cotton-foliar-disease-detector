@@ -12,6 +12,8 @@ They are
 
 This detection model has been trained on ssd_mobilenet_v1_fpn_640x640_coco17_tpu-8 pre-trained model 
 
+
+![20201230_003904](https://user-images.githubusercontent.com/44551506/122682586-059aa100-d218-11eb-82a6-fafba763f5ae.jpg)
 ![20201230_003844](https://user-images.githubusercontent.com/44551506/122682555-d126e500-d217-11eb-85a3-3c94ddd87b18.jpg)
 
 
